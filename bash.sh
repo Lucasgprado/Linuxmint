@@ -25,3 +25,6 @@ pwd =mostrar qual diretorio esta
 mkdir =criação dos diretorios 
 
 TAB =preencher comando
+
+&& =continuar comando na mesma linha
+
