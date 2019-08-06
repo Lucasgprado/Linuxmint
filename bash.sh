@@ -42,3 +42,11 @@ head =listar 10 primeiras linhas do arquivo
 
 head -n =escolher numero de linhas que voce quiser
 
+tail =listar 10 ultimas linhas do arquivo
+
+tail -n =escolher numero de linhas que voce quiser
+
+less =paginador
+
+| =separar os comandos 
+
