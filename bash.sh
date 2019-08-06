@@ -28,3 +28,17 @@ TAB =preencher comando
 
 && =continuar comando na mesma linha
 
+echo =imprimir na tela oq escrever
+
+touch =mudar horario e data ou criar arquivos
+
+cat =listar conteúdo do arquivo
+
+cat -n =listar linhas
+
+arquivo LICENSE =674 linhas
+
+head =listar 10 primeiras linhas do arquivo
+
+head -n =escolher numero de linhas que voce quiser
+
